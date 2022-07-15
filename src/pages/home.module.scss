@@ -1,1 +1,86 @@
-// TODO
+.header {
+    padding-top: 7.955rem;
+    padding-bottom: 6.482rem;
+    width: 100%;
+    max-width: 70rem;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 5rem;
+
+    .divButton {
+        display: flex;
+        align-items: flex-start;
+        width: 100%;
+        max-width: 70rem;
+
+        button {
+            border: none;
+            background: none;
+            color: var(--pink);
+            font-size: 1.8rem;
+            font-weight: 600;
+            cursor: pointer;
+        }
+    }
+}
+
+.post {
+    display: flex;
+    flex-direction: column;
+    gap: 8;
+    color: white;
+    width: 100%;
+    max-width: 70rem;
+
+    a {
+        color: currentColor;
+        text-decoration: none;
+    }
+
+    h2 {
+        font-size: 2.8rem;
+        font-weight: bold;
+        line-height: 3.389rem;
+        letter-spacing: -0.05rem;
+        margin-bottom: 0.8rem;
+    }
+
+    h3 {
+        font-size: 1.8rem;
+        line-height: 2.178rem;
+        color: var(--gray-200);
+        margin-bottom: 2.4rem;
+    }
+
+    .info {
+        display: flex;
+        gap: 2.4rem;
+    }
+
+    div {
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+    
+        time {
+            color: var(--gray-200);
+            font-size: 1.4rem;
+            line-height: 1.694rem;
+        }
+        p {
+            color: var(--gray-200);
+            font-size: 1.4rem;
+            line-height: 1.694rem;
+        }
+    }
+
+}
+
+.post:not(:last-child) {
+    margin-bottom: 4.8rem;
+}

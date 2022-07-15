@@ -1,1 +1,80 @@
-// TODO
+.header {
+    width: 100%;
+    padding-block: 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+
+    padding-bottom: 20rem;
+
+    figure {
+        img {
+            width: 100%;
+        }
+    }
+    header {
+        padding-top: 7.955rem;
+        padding-bottom: 6.482rem;
+        width: 100%;
+        max-width: 70rem;
+
+        & > div {
+            display: flex;
+            gap: 2.4rem;
+
+            div {
+                display: flex;
+                align-items: center;
+                gap: 0.8rem;
+
+                time {
+                    color: var(--gray-200);
+                    font-size: 1.4rem;
+                    line-height: 1.694rem;
+                }
+                p {
+                    color: var(--gray-200);
+                    font-size: 1.4rem;
+                }
+            }
+        }
+
+        h1 {
+            color: white;
+            font-size: 4.8rem;
+            font-weight: bold;
+            letter-spacing: -0.05rem;
+            line-height: 5.809rem;
+            margin-bottom: 2.4rem;
+        }
+    }
+
+    article {
+        max-width: 70rem;
+        width: 100%;
+        margin-inline: auto;
+
+        h2 {
+            color: white;
+            font-size: 3.6rem;
+            font-weight: bold;
+            line-height: 2.52rem;
+            margin-bottom: 4rem;
+        }
+
+        p {
+            color: var(--gray-200);
+            font-size: 1.8rem;
+            line-height: 2.52rem;
+        }
+        section {
+            div {
+                div {
+                    margin-bottom: 5rem;
+                }
+            }
+        }
+    }
+}

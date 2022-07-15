@@ -1,0 +1,61 @@
+{
+  "id": "9b036c7a-76d8-48a2-9320-29145bd6c194",
+  "uid": "est-autem-quos",
+  "type": "posts",
+  "data": {
+    "title": "architect back-end partnerships",
+    "subtitle": "reintermediate revolutionary action-items",
+    "author": "expedite enterprise bandwidth",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=900&h=500&fit=crop"
+    },
+    "group": [
+      {
+        "heading": "brand virtual mindshare",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Incididunt deserunt officia ex consectetur. Lorem nulla cupidatat nisi magna id laboris.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "evolve frictionless ROI",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Mollit voluptate minim ullamco sit labore tempor nisi aute minim consectetur ullamco ex aliquip aute Lorem. Laboris occaecat cupidatat duis culpa nulla.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "extend impactful interfaces",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Nostrud enim magna ullamco deserunt dolore et.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "transition sticky content",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Adipisicing consequat veniam culpa non. Quis non sunt ex in labore dolore veniam labore officia ipsum id. Lorem dolor enim eiusmod eu.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
