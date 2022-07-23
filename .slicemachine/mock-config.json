@@ -1,7 +1,7 @@
 {
   "_cts": {
     "posts": {
-      "group": {
+      "content": {
         "body": {
           "config": {
             "patternType": "PARAGRAPH",

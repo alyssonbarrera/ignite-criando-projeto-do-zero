@@ -41,10 +41,10 @@
           "thumbnails": []
         }
       },
-      "group": {
+      "content": {
         "type": "Group",
         "config": {
-          "label": "Group",
+          "label": "Content",
           "fields": {
             "heading": {
               "type": "Text",
